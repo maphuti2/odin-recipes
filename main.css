@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, "Helvetica", sans-serif;
+}
+
+body{
+    background-image: url("./img/pexels-a-darmel-7322108.jpg");
+    background-size: cover;
+    opacity: 0.7;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 48px;
+    font-weight: bold;
+    opacity: 1;
+    color: burlywood;
+}
+
+p{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.link{
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    margin: 70px 5px;
+    font-size: 16px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(12, 7, 0);
+    background-color: burlywood;
+    padding: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: 2px solid burlywood;
+}
